@@ -30,6 +30,18 @@
 **Dynamic Columns in variable dashboards**
 - https://community-forums.domo.com/main/discussion/57532/
 
+## Magic ETL
+**Smaller Sticky Notes**
+- https://community-forums.domo.com/main/discussion/69441/
+
+**Duplicate Sticky Notes**
+- https://community-forums.domo.com/main/discussion/69442
+
+**Consistent Colors for Sections**
+- https://community-forums.domo.com/main/discussion/69443
+
+**CTRL + Z undo in Magic ETL**
+- https://community-forums.domo.com/main/discussion/69338
 
 ## Unsubmitted / Not researched:
 - Ideas Exchange - Linked Drill Downs
