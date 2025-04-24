@@ -49,3 +49,4 @@
 - Make Drill Paths more accessible from App Studio
 - Hovertext on Joins 
 - Show app pages on move/copy like they show up in admin > cards panel (move/copy doesn't show the app pages....)
+- One level deep drill path schema change (column rename) shows a Fix it button that opens analyzer on top level
