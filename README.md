@@ -10,6 +10,16 @@
 **Brand Kit Font in AppStudio**
 - https://community-forums.domo.com/main/discussion/68574/
 
+## Charting Options
+**Add Maximum Items Chart Property to Pareto Chart**
+- https://community-forums.domo.com/main/discussion/69812/add-maximum-items-chart-property-to-pareto-chart#latest
+
+** Add Text Alignment Controls to Card Elements (Title, Description, Summary Number) **
+- https://community-forums.domo.com/main/discussion/69811/add-text-alignment-controls-to-card-elements-title-description-summary-number#latest
+
+** More customization in text cards **
+- https://community-forums.domo.com/main/discussion/59941/more-customization-in-text-cards#latest
+
 ## Table Cards
 **Allowing Only Header text to wrap**
 - https://community-forums.domo.com/main/discussion/53376/
@@ -25,6 +35,9 @@
 - more context: https://community-forums.domo.com/main/discussion/52034/income-statement
 - more context: https://community-forums.domo.com/main/discussion/62158/correctly-show-financial-information-show-positive-sign-on-expenses-cogs-other-expenses
 - more context: https://community-forums.domo.com/main/discussion/59452/how-to-add-gross-profit-row-into-profit-and-loss-pivot-table
+
+**Allow Text Size to be affected by Color Rules in Table Cards**
+- https://community-forums.domo.com/main/discussion/69822/allow-text-size-to-be-affected-by-color-rules-in-table-cards/p1?new=1
 
 ## Variables
 **Dynamic Columns in variable dashboards**
