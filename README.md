@@ -12,13 +12,13 @@
 
 ## Charting Options
 **Add Maximum Items Chart Property to Pareto Chart**
-- https://community-forums.domo.com/main/discussion/69812/add-maximum-items-chart-property-to-pareto-chart#latest
+- https://community-forums.domo.com/main/discussion/69812/
 
 ** Add Text Alignment Controls to Card Elements (Title, Description, Summary Number) **
-- https://community-forums.domo.com/main/discussion/69811/add-text-alignment-controls-to-card-elements-title-description-summary-number#latest
+- https://community-forums.domo.com/main/discussion/69811/
 
 ** More customization in text cards **
-- https://community-forums.domo.com/main/discussion/59941/more-customization-in-text-cards#latest
+- https://community-forums.domo.com/main/discussion/59941/
 
 ## Table Cards
 **Allowing Only Header text to wrap**
@@ -37,7 +37,7 @@
 - more context: https://community-forums.domo.com/main/discussion/59452/how-to-add-gross-profit-row-into-profit-and-loss-pivot-table
 
 **Allow Text Size to be affected by Color Rules in Table Cards**
-- https://community-forums.domo.com/main/discussion/69822/allow-text-size-to-be-affected-by-color-rules-in-table-cards/p1?new=1
+- https://community-forums.domo.com/main/discussion/69822/
 
 ## Variables
 **Dynamic Columns in variable dashboards**
