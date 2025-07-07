@@ -39,6 +39,9 @@
 **Allow Text Size to be affected by Color Rules in Table Cards**
 - https://community-forums.domo.com/main/discussion/69822/
 
+**Adjust Column Widths in Pivot Tables**
+- https://community-forums.domo.com/main/discussion/68033/
+
 ## Variables
 **Dynamic Columns in variable dashboards**
 - https://community-forums.domo.com/main/discussion/57532/
