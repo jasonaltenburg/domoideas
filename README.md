@@ -1,14 +1,14 @@
 # Domo Ideas Exchange Ideas
 
 ## AppStudio
-**More than 1 person editing App**
-- https://community-forums.domo.com/main/discussion/68600/
-
 **Link to Apps as Content**
 - https://community-forums.domo.com/main/discussion/68599/
 
 **Brand Kit Font in AppStudio**
 - https://community-forums.domo.com/main/discussion/68574/
+
+**Page Level Security**
+- https://community-forums.domo.com/main/discussion/66481/
 
 ## Charting Options
 **Add Maximum Items Chart Property to Pareto Chart**
@@ -66,3 +66,7 @@
 - Hovertext on Joins 
 - Show app pages on move/copy like they show up in admin > cards panel (move/copy doesn't show the app pages....)
 - One level deep drill path schema change (column rename) shows a Fix it button that opens analyzer on top level
+
+## Implemented
+**More than 1 person editing App**
+- https://community-forums.domo.com/main/discussion/68600/
