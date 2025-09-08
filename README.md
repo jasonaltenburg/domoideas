@@ -59,6 +59,10 @@
 **CTRL + Z undo in Magic ETL**
 - https://community-forums.domo.com/main/discussion/69338
 
+## Security and Access
+** Modify Request Access Button **
+- https://community-forums.domo.com/main/discussion/68185/
+
 ## Unsubmitted / Not researched:
 - Ideas Exchange - Linked Drill Downs
 - Instance Aware BeastMode variable
