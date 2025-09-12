@@ -14,10 +14,10 @@
 **Add Maximum Items Chart Property to Pareto Chart**
 - https://community-forums.domo.com/main/discussion/69812/
 
-** Add Text Alignment Controls to Card Elements (Title, Description, Summary Number) **
+**Add Text Alignment Controls to Card Elements (Title, Description, Summary Number)**
 - https://community-forums.domo.com/main/discussion/69811/
 
-** More customization in text cards **
+**More customization in text cards**
 - https://community-forums.domo.com/main/discussion/59941/
 
 ## Table Cards
@@ -63,6 +63,10 @@
 **Modify Request Access Button**
 - https://community-forums.domo.com/main/discussion/68185/
 
+## Data Administration
+**Easy dataset field width extension**
+- https://community-forums.domo.com/main/discussion/70105/
+
 ## Unsubmitted / Not researched:
 - Ideas Exchange - Linked Drill Downs
 - Instance Aware BeastMode variable
@@ -70,6 +74,7 @@
 - Hovertext on Joins 
 - Show app pages on move/copy like they show up in admin > cards panel (move/copy doesn't show the app pages....)
 - One level deep drill path schema change (column rename) shows a Fix it button that opens analyzer on top level
+- Get Schema tile should also grab column descriptions and tags where available
 
 ## Implemented
 **More than 1 person editing App**
